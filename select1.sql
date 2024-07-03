@@ -27,5 +27,3 @@ from
 select student_id, student_name from student_tb
 union all
 select student_id, phone from student_tb;
-
-
